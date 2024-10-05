@@ -75,4 +75,4 @@ The feature selection techniques used are:
 ![fsel11](https://github.com/user-attachments/assets/49aa0300-fdc0-401c-8004-a310e18615eb)
 
 # RESULT:
-Thus, the program was executed sucessfully.
+Thus, feature scaling and selecting have been implemented successfully. 
